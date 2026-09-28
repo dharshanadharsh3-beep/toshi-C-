@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+int main (){
+int a = 10;
+int result = (a*a);
+cout << "a =" << a << endl;
+cout << "a*a =" << result << endl;
+return 0;
+}
